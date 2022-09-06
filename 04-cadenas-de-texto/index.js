@@ -1,3 +1,4 @@
+'use strict'
 const nombre = "Pedro"
 const apellido = "Gómez"
 

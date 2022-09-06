@@ -1,3 +1,4 @@
+'use strict'
 const heightInCentimeters = 180;
 const heightInMeters = 1.85;
 

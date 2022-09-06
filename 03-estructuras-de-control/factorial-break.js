@@ -1,12 +1,12 @@
-"use strict"
+'use strict'
 let number = 10;
 let factorial = 1;
 while (true) {
-  factorial *= number
-  number--
+  factorial *= number;
+  number--;
 
   if (number <= 0) {
-    break
+    break;
   }
 }
-console.log(factorial)
+console.log(factorial);
